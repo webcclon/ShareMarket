@@ -1,0 +1,40 @@
+.card-collection {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.parent-barchart {
+    width: 70rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.barchart {
+    width: 68rem;
+    height: 25rem;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 2rem;
+}
+
+.graph-section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.pie-chart {
+    width: 30rem;
+    padding: 0.5rem 2rem;
+}
+
+.table {
+    margin-top: 20px;
+}

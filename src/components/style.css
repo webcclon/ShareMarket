@@ -1,0 +1,42 @@
+.card {
+    width: 19rem;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 0 20px 20px 0;
+    border-radius: 13px !important;
+}
+.card-icon {
+    height: 5rem;
+    width: 5rem;
+    float: left;
+    align-items: center;
+    /* padding: 0; */
+}
+
+.card-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 10px;
+}
+
+.icon-image {
+    border-radius: 50%;
+    padding: 25px !important;
+}
+
+.product-image {
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 20px;
+}
+
+.text-field {
+    height: 2rem;
+    border-radius: 10px;
+    padding: 3px 11px;
+}
